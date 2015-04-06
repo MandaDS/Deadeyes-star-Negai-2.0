@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="no-js">
 <head>
 <title>Deadeyes-star.com</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
